@@ -1,3 +1,6 @@
+#Created a Jsonify file prototype using Flask and Jsonfy
+#IDE used was VSCode 
+#Basic function of finding whether a number is armstrong or not was used
 from flask import Flask,jsonify
 app = Flask(__name__)
 
